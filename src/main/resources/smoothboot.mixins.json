@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.smoothboot.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CursorSlotMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "KeyboardMixin",
+    "MinecraftClientAccessor",
+    "MinecraftClientMixin",
+    "VirginMixin",
+    "WorldRendererMixin",
+    "ClientPlayNetworkHandlerMixin"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
