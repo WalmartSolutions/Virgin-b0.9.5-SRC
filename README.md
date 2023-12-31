@@ -3,7 +3,7 @@
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This is kinda the devs fault because his community is made out of restarted people who literally have nothing better to do then shit talk all day and once they think they ae winning their goofy ahh argument they get hit by the biggest smoke in the air LMAOOOO. Take a look at this reference and see what im talking about... (Scroll down for further entertainment 🍿)
+This is kinda the devs fault because his community is made out of restarted people who literally have nothing better to do then shit talk all day and once they think they are winning their goofy ahh argument they get hit by the biggest smoke in the air lmao. Take a look at this reference and see what im talking about... (Scroll down for further entertainment 🍿)
 
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
